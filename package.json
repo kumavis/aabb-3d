@@ -24,7 +24,7 @@
     "gl-matrix": "2.X.X"
   },
   "devDependencies": {
-    "tape": "~0.1.5"
+    "tape": "~4.6.2"
   },
   "testling": {
     "files": "test.js",
